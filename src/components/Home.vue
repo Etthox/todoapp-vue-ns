@@ -12,7 +12,7 @@
               hint="Digite a tarefa..." 
               class="flex-1 p-2 border border-gray-300 rounded"
             />
-            <Button text="Criar" @tap="handleAddTask" class="bg-blue-500 text-white p-2 rounded" />
+            <Button text="Criar" @tap="handleAddTask" class="bg-blue-400 text-white p-2 rounded" />
           </StackLayout>
 
           <!-- Lista de tarefas -->
