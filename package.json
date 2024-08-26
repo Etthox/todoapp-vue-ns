@@ -1,0 +1,30 @@
+{
+  "name": "vueapp",
+  "main": "src/app.ts",
+  "version": "1.0.0",
+  "private": true,
+  "nativescript": {
+    "id": "org.nativescript.vueapp"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.11.4",
+    "@nativescript/core": "8.7.0",
+    "@nstudio/nativescript-checkbox": "^2.0.5",
+    "@vue/apollo-composable": "^4.2.1",
+    "autoprefixer": "^10.4.20",
+    "graphql": "^16.9.0",
+    "nativescript-vue": "3.0.0-rc.2",
+    "pinia": "^2.2.2",
+    "postcss": "^8.4.41",
+    "vue": "^3.4.38"
+  },
+  "devDependencies": {
+    "@nativescript/android": "8.8.2",
+    "@nativescript/tailwind": "~2.1.0",
+    "@nativescript/types": "8.7.0",
+    "@nativescript/webpack": "~5.0.0",
+    "@types/node": "~17.0.21",
+    "tailwindcss": "^3.4.10",
+    "typescript": "^5.4.5"
+  }
+}
