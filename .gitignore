@@ -1,0 +1,10 @@
+path/to/large/file
+
+# Ignorar o executável do Electron
+node_modules/electron/dist/electron.exe
+
+# Ignorar o diretório platforms
+platforms/
+
+# Ignorar outros arquivos grandes
+path/to/other/large/file
