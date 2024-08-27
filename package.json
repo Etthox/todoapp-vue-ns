@@ -7,12 +7,10 @@
     "id": "org.nativescript.vueapp"
   },
   "dependencies": {
-    "@apollo/client": "^3.11.4",
     "@nativescript/core": "8.7.0",
     "@nstudio/nativescript-checkbox": "^2.0.5",
     "@vue/apollo-composable": "^4.2.1",
     "autoprefixer": "^10.4.20",
-    "graphql": "^16.9.0",
     "nativescript-vue": "3.0.0-rc.2",
     "pinia": "^2.2.2",
     "postcss": "^8.4.41",
