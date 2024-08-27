@@ -1,0 +1,4 @@
+C:\Users\renan\vueapp\platforms\android\app\src\main\assets\app\bundle.js
+C:\Users\renan\vueapp\platforms\android\app\src\main\assets\app\runtime.js
+C:\Users\renan\vueapp\platforms\android\app\src\main\assets\app\tns_modules\inspector_modules.js
+C:\Users\renan\vueapp\platforms\android\app\src\main\assets\app\vendor.js

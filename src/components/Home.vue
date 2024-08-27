@@ -54,7 +54,7 @@ function handleAddTask() {
     newTaskTitle.value = ''; // Limpa o campo de input
 }
 
-// Função para alternar o estado de conclusão de uma tarefa
+// Função para alternar o estado de conclusão de uma tarefas
 function handleToggleTaskCompletion(task: Task) {
   taskStore.toggleTaskCompletion(task, !task.completed);
 }
